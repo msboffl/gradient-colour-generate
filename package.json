@@ -4,7 +4,8 @@
   "description": "Gradient color generator using HTML, CSS, JavaScript",
   "main": "server.js",
   "scripts": {
-    "start": " nodemon server.js"
+    "start": " nodemon server.js",
+    "deploy": "gh-pages -d public"
   },
   "author": "Mareedu Saibabu",
   "license": "MIT",
