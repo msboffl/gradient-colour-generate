@@ -10,7 +10,8 @@
   "author": "Mareedu Saibabu",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "gh-pages": "^3.2.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
